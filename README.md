@@ -11,3 +11,8 @@ Name: Nahid Fatma
 Place: Bhubaneshwar
 Bio: Student 
 Github: nfatma
+
+### Name:[Arfad Kallil](https:github.com/arfu786)
+- Place: Kannur,Kerala,India
+- Bio: Student
+- Github: arfu786
