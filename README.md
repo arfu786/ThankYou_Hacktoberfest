@@ -5,3 +5,9 @@ Hacktoberfest 2017
 - Place: Jaipur, India
 - Bio: Machine Learning Engineer
 - GitHub: [Jai Janyani](https://github.com/JAIJANYANI)
+
+####
+Name: Nahid Fatma
+Place: Bhubaneshwar
+Bio: Student 
+Github: nfatma
