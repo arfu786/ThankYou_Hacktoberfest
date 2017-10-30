@@ -32,3 +32,8 @@ Github: DulajMadushanka(https://github.com/DulajMadushanka)
 - Place: Kannur,Kerala,India
 - Bio: Student
 - Github: arfu786
+
+### Name:Shubhangi Misra
+- Place :India
+- Bio: Student
+- Github: [Shubhangi Misra](https:github.com/Shubhangimisra)
