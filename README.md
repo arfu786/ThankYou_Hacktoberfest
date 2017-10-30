@@ -11,3 +11,9 @@ Name: Nahid Fatma
 Place: Bhubaneshwar
 Bio: Student 
 Github: nfatma
+
+####
+Name: Dulaj Madushanka
+Place: Sri lanaka
+Bio:  Computer Student 
+Github: DulajMadushanka(https://github.com/DulajMadushanka)
