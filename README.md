@@ -16,3 +16,10 @@ Github: nfatma
 - Place: Kannur,Kerala,India
 - Bio: Student
 - Github: arfu786
+
+
+####
+Name: Dulaj Madushanka
+Place: Sri lanaka
+Bio:  Computer Student 
+Github: DulajMadushanka(https://github.com/DulajMadushanka)
