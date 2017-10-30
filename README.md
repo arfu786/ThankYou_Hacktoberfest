@@ -6,6 +6,7 @@ Hacktoberfest 2017
 - Bio: Machine Learning Engineer
 - GitHub: [Jai Janyani](https://github.com/JAIJANYANI)
 
+
 ####
 Name: Nahid Fatma
 Place: Bhubaneshwar
@@ -17,3 +18,10 @@ Github: nfatma
 - Place: delhi, India
 - Bio: undergrad at DTU
 - GitHub: [ANKIT GUPTA](https://github.com/Ayan137)
+
+
+####
+Name: Dulaj Madushanka
+Place: Sri lanaka
+Bio:  Computer Student 
+Github: DulajMadushanka(https://github.com/DulajMadushanka)
